@@ -23,6 +23,7 @@ console.log(i);
 if (i % 3 === 0 && i % 5 === 0) {
 console.log("FizzBuzz");
 }
+```
 
 ## Final Code
 
@@ -38,5 +39,5 @@ console.log("Buzz");
 console.log(i);
 }
 }
-
+```
  
