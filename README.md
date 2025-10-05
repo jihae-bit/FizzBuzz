@@ -2,7 +2,7 @@
 
 
 ## How I solved it
-1. First, I used a for loop to count from 1 to 10.
+1. First, I used a for loop.
 
 ```javascript
 for (let i = 1; i <= 100; i++) {
