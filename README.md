@@ -26,6 +26,7 @@ console.log("FizzBuzz");
 }
 ```
 so I could complete the final code.
+I tested it on Eloquent Javascript and it worked well.
 
 ## Final Code
 
