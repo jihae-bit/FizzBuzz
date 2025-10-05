@@ -8,12 +8,13 @@
 for (let i = 1; i <= 100; i++) {
 console.log(i);
 }
+```
 
 - let i = 1 means start at 1.  
 - i <= 100 means keep going until 100.  
 - i++ means add 1 each time.  
 
-2. To check if numbers are divisible by 3 or 5, I used the modulus operator (%):  
+2. To check if numbers are divisible by 3 or 5, I used %:  
 - i % 3 === 0 means the number divides evenly by 3.  
 - i % 5 === 0 means the number divides evenly by 5.  
 
