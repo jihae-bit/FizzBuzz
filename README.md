@@ -1,7 +1,7 @@
 # FizzBuzz
 
 
-## How I solved it
+## How I made it
 1. First, I used a for loop.
 
 ```javascript
@@ -25,6 +25,7 @@ if (i % 3 === 0 && i % 5 === 0) {
 console.log("FizzBuzz");
 }
 ```
+so I could complete the final code.
 
 ## Final Code
 
