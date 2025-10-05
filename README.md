@@ -1,4 +1,4 @@
-#FizzBuzz
+# FizzBuzz
 
 
 ## How I solved it
@@ -14,11 +14,11 @@ console.log(i);
 - i <= 100 means keep going until 100.  
 - i++ means add 1 each time.  
 
-2. To check if numbers are divisible by 3 or 5, I used %:  
+2. Also, I used %:  
 - i % 3 === 0 means the number divides evenly by 3.  
 - i % 5 === 0 means the number divides evenly by 5.  
 
-3. I checked if the number was divisible by both 3 and 5 first, otherwise "FizzBuzz" would not work correctly:
+3. I checked if the number was divisible by both 3 and 5 first :
 
 ```javascript
 if (i % 3 === 0 && i % 5 === 0) {
